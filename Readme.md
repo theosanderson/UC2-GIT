@@ -22,7 +22,7 @@
 
 ## Steps to reproduce and use the toolbox:
 <p align="center">
- <a href="#user-content-hello" name="hello"><img src="./IMAGES/UC2_Reproduce_Scheme.png" width="800"></a>
+ <a href="#user-content-scheme" name="scheme"><img src="./IMAGES/UC2_Reproduce_Scheme.png" width="800"></a>
 </p>
 
 ## Too many new things? Follow our tutorials [<img src="./IMAGES/BtP.png" width="60"> From a Beginner to a Professional](./TUTORIALS)!
